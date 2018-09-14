@@ -1,0 +1,29 @@
+/* add your CSS here */
+img
+{
+	padding: 1em;
+	width:300px;
+}
+.fullpage
+{
+	padding: 1em;
+	border: solid #d3d3d3 1.5px;
+	box-shadow: 10px 10px 5px #888888;
+	max-width: 300px;
+}
+.information{
+	border: solid #d3d3d3 1.5px;
+	padding: 1em;
+}
+ul
+{
+	list-style: none;
+}
+span
+{
+	font-weight: bold;
+}
+.fact
+{
+	font-style: italic;
+}
